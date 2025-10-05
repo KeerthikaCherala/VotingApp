@@ -448,4 +448,4 @@ For support, questions, or feedback:
 
 ---
 
-**Made with ❤️ by Keerthika Cherala**
+**Made by Keerthika Cherala**
